@@ -1,19 +1,8 @@
-<p align="center">
-    <img src="https://github.com/octobercms/october/blob/develop/themes/demo/assets/images/favicon.png?raw=true" alt="October" width="25%" height="25%" />
-</p>
+# October CMS Customizable Blog
 
-[October](https://octobercms.com) is a Content Management System (CMS) and web platform whose sole purpose is to make your development workflow simple again. It was born out of frustration with existing systems. We feel building websites has become a convoluted and confusing process that leaves developers unsatisfied. We want to turn you around to the simpler side and get back to basics.
+October CMS Admin Customization & Blog Integration: This project facilitates seamless customization of forms and integration of a blog feature within the backend admin section of October CMS. Changes made within the admin panel are dynamically reflected on the frontend, providing an efficient solution for managing website content and enhancing user experience.
 
-October's mission is to show the world that web development is not rocket science.
-
-[![Build Status](https://github.com/octobercms/library/actions/workflows/tests.yml/badge.svg)](https://octobercms.com/)
-[![Downloads](https://img.shields.io/packagist/dt/october/rain)](https://docs.octobercms.com/)
-[![Version](https://img.shields.io/packagist/v/october/october)](https://octobercms.com/changelog)
-[![License](https://poser.pugx.org/october/october/license.svg)](./LICENSE.md)
-
-> *Please note*: October is open source but it is not free software. A license with a small fee is required for each website you build with October CMS.
-
-## Installing October
+## Installation
 
 Instructions on how to install October can be found at the [installation guide](https://docs.octobercms.com/3.x/setup/installation.html).
 
@@ -34,26 +23,6 @@ The best place to learn October CMS is by [reading the documentation](https://do
 You may also watch this [introductory video](https://www.youtube.com/watch?v=yLZTOeOS7wI). Make sure to check out our [official YouTube channel](https://www.youtube.com/c/OctoberCMSOfficial). There is also the excellent video series by [Watch & Learn](https://watch-learn.com/series/making-websites-with-october-cms).
 
 For code examples of building with October CMS, visit the [RainLab Plugin Suite](https://github.com/rainlab) or the [October Demos Repo](https://github.com/octoberdemos).
-
-## Coding Standards
-
-Please follow the following guides and code standards:
-
-* [PSR 4 Coding Standards](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md)
-* [PSR 2 Coding Style Guide](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
-* [PSR 1 Coding Standards](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
-
-## Security Vulnerabilities
-
-Please review [our security policy](https://github.com/octobercms/october/security/policy) on how to report security vulnerabilities.
-
-## Development Team
-
-October CMS was created by [Alexey Bobkov](https://www.linkedin.com/in/alexey-bobkov-232ba02b/) and [Samuel Georges](https://www.linkedin.com/in/samuel-georges-0a964131/), who both continue to develop the platform.
-
-## Foundation library
-
-The CMS uses [Laravel](https://laravel.com) as a foundation PHP framework.
 
 ## Contact
 
