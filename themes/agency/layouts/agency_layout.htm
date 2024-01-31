@@ -1,0 +1,30 @@
+description = "This layout is the default layout for the customized practice bootstrap template."
+==
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Agency - October CMS</title>
+        {% partial 'site/head-links' %}
+        {% partial 'site/css' %}
+
+    </head>
+    <body id="page-top">
+        <!-- Navigation Bar-->
+        {% partial 'site/navigation' %}
+    
+        <!-- Page Tag below will render page in the below body while using the layout of the page. -->
+        {% page %}
+        <!-- Footer-->
+        {% partial 'site/footer' %}
+
+        <!-- Portfolio Modals-->
+        {% partial 'site/portfolio-modal' %}
+
+        <!-- Footer Scripts-->
+        {% partial 'site/scripts-footer' %}
+    </body>
+</html>

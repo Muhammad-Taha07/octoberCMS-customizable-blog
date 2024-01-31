@@ -1,0 +1,9 @@
+title = "Bloggin Post"
+layout = "default"
+url = "/blog-custom/:slug"
+
+[blogPost]
+slug = "{{ :slug }}"
+categoryPage = "blog/category"
+==
+{% component 'blogPost' %}
